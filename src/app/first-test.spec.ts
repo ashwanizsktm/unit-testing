@@ -1,5 +1,5 @@
 describe('First test', ()=> {
-     let testVariable: any;
+    let testVariable: any;
 
      beforeEach(() => {
         testVariable = {};
